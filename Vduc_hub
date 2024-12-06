@@ -1,0 +1,9 @@
+cofig={
+
+namescript ="VinhDucHub",--Tên Script.
+
+logoscript="80882132154802",--ID Logo Script
+
+tacgia ="VinhDuc"--Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tngaming123/vesion/refs/heads/main/scriptbffree.lua"))()
